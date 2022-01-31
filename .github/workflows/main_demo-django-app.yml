@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'demo-django-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_175EDD587ED2412693569B133D6E72B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5446CB602F56498F989B39B21EAEC26F }}
